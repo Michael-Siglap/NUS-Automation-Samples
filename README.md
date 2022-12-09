@@ -32,3 +32,5 @@ Notes
 - There is an unexplained delay in items relating to IFTTT actions. Why?
 
 The exploring continues in CI/CD!!!
+
+END
